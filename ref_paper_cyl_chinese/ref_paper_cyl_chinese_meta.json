@@ -1,0 +1,656 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Numerical Simulation of Low Reynolds Number Fluid-Structure \nInteraction with Immersed Boundary Method",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.1077651977539,
+          149.87599999999998
+        ],
+        [
+          509.11065673828125,
+          149.87599999999998
+        ],
+        [
+          509.11065673828125,
+          187.0472412109375
+        ],
+        [
+          90.1077651977539,
+          187.0472412109375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.77999496459961,
+          274.492
+        ],
+        [
+          101.32000000000001,
+          274.492
+        ],
+        [
+          101.32000000000001,
+          287.1749267578125
+        ],
+        [
+          63.77999496459961,
+          287.1749267578125
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.779998779296875,
+          452.99600000000004
+        ],
+        [
+          134.696,
+          452.99600000000004
+        ],
+        [
+          134.696,
+          466.2543029785156
+        ],
+        [
+          63.779998779296875,
+          466.2543029785156
+        ]
+      ]
+    },
+    {
+      "title": "2. Computational Scheme",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.779998779296875,
+          155.76999999999998
+        ],
+        [
+          178.79999999999998,
+          155.76999999999998
+        ],
+        [
+          178.79999999999998,
+          167.225341796875
+        ],
+        [
+          63.779998779296875,
+          167.225341796875
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Governing equation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.779998779296875,
+          550.668
+        ],
+        [
+          165.092,
+          550.668
+        ],
+        [
+          165.092,
+          564.0543212890625
+        ],
+        [
+          63.779998779296875,
+          564.0543212890625
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Numerical scheme",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.556,
+          85.042
+        ],
+        [
+          401.9281005859375,
+          85.042
+        ],
+        [
+          401.9281005859375,
+          96.41693115234375
+        ],
+        [
+          304.556,
+          96.41693115234375
+        ]
+      ]
+    },
+    {
+      "title": "(1) Momentum prediction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.09200000000004,
+          107.776
+        ],
+        [
+          424.15753173828125,
+          107.776
+        ],
+        [
+          424.15753173828125,
+          119.873779296875
+        ],
+        [
+          314.09200000000004,
+          119.873779296875
+        ]
+      ]
+    },
+    {
+      "title": "(2) Face flux calculation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.09200000000004,
+          708.9639999999999
+        ],
+        [
+          418.3643798828125,
+          708.9639999999999
+        ],
+        [
+          418.3643798828125,
+          721.9116821289062
+        ],
+        [
+          314.09200000000004,
+          721.9116821289062
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Numerical algorithm",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.556,
+          643.288
+        ],
+        [
+          411.9555358886719,
+          643.288
+        ],
+        [
+          411.9555358886719,
+          656.3954467773438
+        ],
+        [
+          304.556,
+          656.3954467773438
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.779998779296875,
+          296.38399999999996
+        ],
+        [
+          111.452,
+          296.38399999999996
+        ],
+        [
+          111.452,
+          308.57427978515625
+        ],
+        [
+          63.779998779296875,
+          308.57427978515625
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Stationary cylinder",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          63.779998779296875,
+          317.43399999999997
+        ],
+        [
+          160.92000000000002,
+          317.43399999999997
+        ],
+        [
+          160.92000000000002,
+          329.5745849609375
+        ],
+        [
+          63.779998779296875,
+          329.5745849609375
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Oscillating cylinder",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.96,
+          84.2
+        ],
+        [
+          404.98980712890625,
+          84.2
+        ],
+        [
+          404.98980712890625,
+          96.83
+        ],
+        [
+          303.96,
+          96.83
+        ]
+      ]
+    },
+    {
+      "title": "4. Conclusions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          63.779998779296875,
+          621.396
+        ],
+        [
+          131.12,
+          621.396
+        ],
+        [
+          131.12,
+          634.9743041992188
+        ],
+        [
+          63.779998779296875,
+          634.9743041992188
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.556,
+          104.408
+        ],
+        [
+          356.68780517578125,
+          104.408
+        ],
+        [
+          356.68780517578125,
+          117.59429931640625
+        ],
+        [
+          304.556,
+          117.59429931640625
+        ]
+      ]
+    },
+    {
+      "title": "Biographies:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.556,
+          591.9259999999999
+        ],
+        [
+          364.6217041015625,
+          591.9259999999999
+        ],
+        [
+          364.6217041015625,
+          606.0542907714844
+        ],
+        [
+          304.556,
+          606.0542907714844
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          459
+        ],
+        [
+          "Line",
+          152
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Equation",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          550
+        ],
+        [
+          "Line",
+          150
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "Equation",
+          14
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ref_paper_cyl_chinese"
+}
